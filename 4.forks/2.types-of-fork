@@ -1,0 +1,13 @@
+1. Hard Fork (Puri tarah se batwara)
+
+Ye tab hota hai jab naye rules purane rules ke saath "compatible" nahi hote.
+Isme purani chain aur nayi chain hamesha ke liye alag ho jati hain.
+
+Result:             Ek naya coin banta hai. Jaise Bitcoin se Bitcoin Cash bana tha.
+Fayda:              Agar aapke paas Hardware ya Paper Wallet mein coins hain, toh aapko naye chain par free coins milte hain.
+
+2. Soft Fork (Naya update)
+
+Ye ek "backwards-compatible" update hai.
+Isme purane nodes naye transactions ko pehchan sakte hain.
+Isme koi naya coin nahi banta, bas network pehle se behtar ho jata hai.

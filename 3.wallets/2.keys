@@ -1,0 +1,15 @@
+Element of wallet :- 2
+
+1. Public key                = address                
+2. Private key               = secret
+
+1. Public key                = jaise apke kise friend ko agr apko koye cryptocurrencies send krni h, to ap usko apni Public key yani ki address send kroge.
+
+2. Private key               = y apke wallet ki chabi h, isko apko sambhal kr rakhna h, q ki ek br y kise ko mil gyi to o pura access us admi k pass hoga or oo pura funds withdrwa kar lega.
+
+ kch btc m single address key hota h, jiska use krke aap kise ko v funds bhej skte ho.
+  
+  kch currency m 'MEMO ID' v dalna padt  h. jisme apko address id or MEMO id dono hi dena hota h, ni to funds miss ho jate h.
+
+  To koye v cryptocurrencies use krne se phle dekh lo ki apko reciving address m address or memo address dono puch raha h, y fir useally to single address p kam ho jata h, but kch-kch cryptocurrencies m memo address v mngta h.
+  

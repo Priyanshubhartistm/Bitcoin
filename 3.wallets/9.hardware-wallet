@@ -1,0 +1,27 @@
+4. Hardware Wallets ki Khoobiyan
+Ye wallets sabse behtar maane jaate hain kyunki:
+
+Inka istemal pendrive ki tarah hota hai.
+Aapka Private Keys par poora control hota hai.
+Connect na hone par aapke funds offline rehte hain.
+Inme Airdrops aur Fork coins claim karna aasaan hota hai.
+
+Examples: Trezor aur Ledger.
+
+Drwaback :- 
+
+alg-alg wallets m sirf limited cryptocurrencies hi store kr skte ho.
+
+Paisa Kharch Karna Padta Hai:                   Hot wallets (apps) free hote hain, lekin hardware wallets ko kharidne ke liye aapko achi khasi rakam (paise) deni padti hai.
+
+Trading Mein Deri:                               Agar aapko turant koi coin bechna ya kharidna hai, toh hardware wallet mein pehle device connect karna padta hai aur fir additional steps lene padte hain, jo kaafi time consume karta hai.
+
+Physical Khone ka Darr:                           Kyunki ye ek chhota sa device (pendrive jaisa) hota hai, iske kho jaane ya chori hone ka darr hamesha bana rehta hai.
+
+Log ise sabse safe kyun maante hain?
+
+Hacking se Suraksha:                  Ye hamesha internet se connected nahi hote, isliye hackers door baithkar aapka wallet access nahi kar sakte.
+Private Keys ka Control:              Isme aapke funds aur private keys ka poora control sirf aapke paas hota hai, kisi third-party exchange ke paas nahi.
+Offline Storage:                      Jab tak aap ise computer ya phone se connect nahi karte, aapke funds puri tarah offline rehte hain.
+Physical Confirmation:                Kisi bhi transaction ko karne ke liye aapko device par maujood physical button dabana padta hai, jise koi hacker remote control nahi kar sakta.
+Cold Storage ka Bharosa:              Is tarah ke wallets ko "Cold Wallets" kaha jata hai, jo badi investment ko saalon tak surakshit rakhne ka sabse vishwasniya tarika hai.
